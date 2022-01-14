@@ -1,4 +1,3 @@
-import React from 'react';
 import './style.css';
 import {ReactComponent as GithubIcon} from 'assets/img/github.svg';
 
